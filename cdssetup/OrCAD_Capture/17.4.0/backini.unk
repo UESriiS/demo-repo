@@ -1,0 +1,9 @@
+[Part Management]
+Configuration File=C:\2020 fall\3DE3\OrCAD base\tools\Capture\Samples\BENCHACC.DBC
+[Footprint Viewer Type]
+Type=Allegro
+[Allegro Footprints]
+Dir0=C:\2020 fall\3DE3\OrCAD base\share\pcb\pcb_lib\symbols
+[Symbol Selector Configured Libraries]
+Library0=C:\2020 fall\3DE3\OrCAD base\tools\Capture\Library\PSpice\source.olb
+Number of Configured Libraries=1
